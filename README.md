@@ -4,7 +4,9 @@
 
 ## 在线预览
 
-部署于 Vercel：https://feiyi-china.vercel.app
+在线访问：https://hank1234-c.github.io/feiyi-china-site/
+
+仓库地址：https://github.com/hank1234-c/feiyi-china-site
 
 ## 技术说明
 
